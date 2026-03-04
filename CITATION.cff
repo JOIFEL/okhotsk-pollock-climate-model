@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "Climate and fishing in the biomass dynamics of North Okhotsk pollock (1963–2025)"
+type: dataset
+authors:
+  - family-names: "Ospina Cortes"
+    given-names: "Diego Armando"
+    email: "armando.ospina@gmail.com"
+    affiliation: "Grupo de investigación INET-Compensar"
+  - family-names: "Zuenko"
+    given-names: "Yury Ivanovich"
+    email: "zuenko_yury@hotmail.com"
+    affiliation: "Laboratory of Fishery Oceanography, TINRO"
+version: "1.0.0"
+date-released: "2026-02-28"
